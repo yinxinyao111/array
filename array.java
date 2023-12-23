@@ -4,6 +4,7 @@ public class array{
         for (int x=0; x<nums.length; x++){
             System.out.println(nums[x]);
             //new changes
+            //new new changes
         }
     }
 }

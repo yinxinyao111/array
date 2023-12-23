@@ -5,6 +5,7 @@ public class array{
             System.out.println(nums[x]);
             //new changes
             //new new changes
+            //asdf
         }
     }
 }

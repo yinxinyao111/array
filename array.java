@@ -10,6 +10,7 @@ public class array{
             //just for main
             //new update for github
             //for test branch
+            //sth for main
         }
     }
 }
